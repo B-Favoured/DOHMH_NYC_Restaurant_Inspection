@@ -2,7 +2,9 @@
 
 An interactive Power BI dashboard giving a citywide snapshot of NYC restaurant health inspections — volume, grading, violations, and cuisine-level breakdowns.
 
-[![NYC Food Safety Pulse Dashboard](./screenshot.png)](https://github.com/B-Favoured/DOHMH_NYC_Restaurant_Inspection/blob/main/Screenshot%202026-08-25%20025505.png)
+<img width="1225" height="692" alt="image" src="https://github.com/user-attachments/assets/55e4a219-35af-4517-a9dd-6d8e48cde40b" />
+
+
 
 ## Overview
 
